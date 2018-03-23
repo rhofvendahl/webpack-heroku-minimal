@@ -1,5 +1,5 @@
 {
-  "name": "heroku-template-2",
+  "name": "heroku-webpack-minimal",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
