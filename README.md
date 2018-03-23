@@ -1,7 +1,6 @@
 ## Webpack-Heroku Minimal Template
 
 A minimal template for running an Express.js server on Heroku with Webpack.
-Adapted from https://github.com/darde/phaser-heroku-webpack-es6
 
 ## Installing
 
@@ -26,3 +25,5 @@ heroku create
 git push heroku master
 heroku open
 ```
+
+Adapted from https://github.com/darde/phaser-heroku-webpack-es6
