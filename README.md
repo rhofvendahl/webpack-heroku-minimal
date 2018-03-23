@@ -1,12 +1,12 @@
-## RGR.js
+## Webpack-Heroku Minimal Template
 
-A minimal template for running an Express.js server on Heroku.
+A minimal template for running an Express.js server on Heroku with Webpack (the webpack development server won't work there).
 
 ## Installing
 
 ```
 git clone https://github.com/rhofvendahl/webpack-heroku-minimal
-cd express-webpack-template
+cd webpack-heroku-minimal
 
 npm install
 ```
