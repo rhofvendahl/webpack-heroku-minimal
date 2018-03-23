@@ -1,6 +1,6 @@
 ## Webpack-Heroku Minimal Template
 
-A minimal template for running an Express.js server on Heroku with Webpack (the webpack development server won't work there).
+A minimal template for running an Express.js server on Heroku with Webpack.
 
 ## Installing
 
